@@ -1,0 +1,7 @@
+{
+  "name": "tasukeaiNet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
